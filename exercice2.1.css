@@ -1,0 +1,35 @@
+.s1{
+   background-color: steelblue;
+   width: 100px;
+   height: auto;
+}
+
+.s2{
+   background-color: steelblue;
+   width: 100px;
+   height: auto;
+   position: relative;
+   left:+50px;
+}
+
+.s3{
+   background-color: steelblue;
+   width: 100px;
+   height: auto;
+   position: relative;
+   left:+100px;
+}
+
+.s4{
+   background-color: steelblue;
+   width: 100px;
+   height: auto;
+   position: relative;
+   left:+50px;
+}
+
+.s5{
+   background-color: steelblue;
+   width: 100px;
+   height: auto;
+}

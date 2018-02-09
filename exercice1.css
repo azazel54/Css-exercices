@@ -1,0 +1,72 @@
+.block{
+    background-color: #5ba0ed;
+    border:1px solid black;
+    display: block;
+}
+
+.inline1{
+         background-color: #56803a;
+         border:1px solid black;
+         display: inline;
+}
+
+
+.mainbox{
+    height: 550px;
+    width: 800px;
+    background-color: deepskyblue;
+    margin: auto 10%;
+}
+
+.lilbox{
+    float: left;
+    width: 240px;
+    height: 240px;
+    margin: 5px;
+    background-color: white;
+}
+
+.lilbox1{
+    float: left;
+    width: 240px;
+    height: 240px;
+    margin: 5px;
+    background-color: white;
+}
+
+.lilbox2{
+    float: left;
+    width: 240px;
+    height: 240px;
+    margin: 5px;
+    background-color: white;
+}
+
+.lilbox3{
+    float: left;
+    width: 240px;
+    height: 240px;
+    margin: 5px;
+    background-color: white;
+}
+
+.lilbox4{
+    float: left;
+    width: 240px;
+    height: 240px;
+    margin: 5px;
+    background-color: white;
+}
+
+.lilbox5{
+    float: left;
+    width: 240px;
+    height: 240px;
+    margin: 5px;
+    background-color: white;
+}
+
+
+
+
+
